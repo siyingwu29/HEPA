@@ -29,7 +29,7 @@ conda install -c bioconda rsem
 If you want to know if STAR and RSEM have been installed successfully, you could need to use the following command:
 ```
 STAR --help
-rsem --help
+rsem-calculate-expression --help
 ```
 --Help lets you quickly understand the parameters of the software.
 
